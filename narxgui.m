@@ -1,4 +1,4 @@
-function narx_gui()
+function narxgui()
 % GUI for Time Series Forecasting with a NARX Model
 % -------------------------------------------------
 % This tool uses a feedforward neural network to forecast a time series (y) 
